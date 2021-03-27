@@ -2,43 +2,43 @@
 	"enemies": [
 		{
 			"name": "Miner",
-			"src": "../img/entities/enemies/glacier/miner.png",
+			"src": "../../img/entities/enemies/glacier/miner.png",
 			"damage": 3,
 			"health": 8
 		},
 		{
 			"name": "Miner Drill",
-			"src": "../img/entities/enemies/glacier/miner-drill.png",
+			"src": "../../img/entities/enemies/glacier/miner-drill.png",
 			"damage": 4,
 			"health": 8
 		},
 		{
 			"name": "Miner Drill Heavy",
-			"src": "../img/entities/enemies/glacier/miner-drill-heavy.png",
+			"src": "../../img/entities/enemies/glacier/miner-drill-heavy.png",
 			"damage": 5,
 			"health": 12
 		},
 		{
 			"name": "Elite Miner Shotgun",
-			"src": "../img/entities/enemies/glacier/elite-miner-shotgun.png",
+			"src": "../../img/entities/enemies/glacier/elite-miner-shotgun.png",
 			"damage": 3,
 			"health": 15
 		},
 		{
 			"name": "Elite Miner Rifle",
-			"src": "../img/entities/enemies/glacier/miner-scythe.png",
+			"src": "../../img/entities/enemies/glacier/miner-scythe.png",
 			"damage": 6,
 			"health": 12
 		},
 		{
 			"name": "Snow Ape",
-			"src": "../img/entities/enemies/glacier/snow-ape.png",
+			"src": "../../img/entities/enemies/glacier/snow-ape.png",
 			"damage": 7,
 			"health": 25
 		},
 		{
 			"name": "Baby Snow Ape",
-			"src": "../img/entities/enemies/glacier/baby-snow-ape.png",
+			"src": "../../img/entities/enemies/glacier/baby-snow-ape.png",
 			"damage": 3,
 			"health": 9
 		}

@@ -12,7 +12,7 @@ export class Player extends NPC {
 		this.weapon = {
 			type: "unarmed",
 			name: "Bare Hands",
-			sprite: "../img/items/weapons/fist.png",
+			sprite: "../../img/items/weapons/fist.png",
 			damage: "2",
 		};
 	}
