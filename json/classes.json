@@ -1,0 +1,164 @@
+{
+	"classes": [
+		{
+			"title": "Paladin",
+			"sprite": "../img/entities/classes/paladin.png",
+			"descr": "Protector of JUSTICEEE!!!",
+			"damage": 5,
+			"currHp": 10,
+			"maxHp": 10,
+			"energy": 3,
+			"weapons": [
+				{
+					"type": "wood",
+					"name": "wood sword",
+					"sprite": "../img/items/weapons/melee/sword-wood.png",
+					"damage": 5,
+					"price": 200
+				},
+				{
+					"type": "iron",
+					"name": "iron sword",
+					"sprite": "../img/items/weapons/melee/sword-iron.png",
+					"damage": 8,
+					"price": 500
+				},
+				{
+					"gold": "gold",
+					"name": "gold sword",
+					"sprite": "../img/items/weapons/melee/sword-gold.png",
+					"damage": 12,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"title": "Archer",
+			"sprite": "../img/entities/classes/archer.png",
+			"descr": "Nature and bows and stuff.",
+			"damage": 7,
+			"currHp": 6,
+			"maxHp": 6,
+			"energy": 5,
+			"weapons": [
+				{
+					"type": "wood",
+					"name": "wood bow",
+					"sprite": "../img/items/weapons/ranged/bow-wood.png",
+					"damage": 5,
+					"price": 200
+				},
+				{
+					"type": "iron",
+					"name": "iron bow",
+					"sprite": "../img/items/weapons/ranged/bow-iron.png",
+					"damage": 8,
+					"price": 500
+				},
+				{
+					"gold": "gold",
+					"name": "gold sword",
+					"sprite": "../img/items/weapons/ranged/bow-gold.png",
+					"damage": 12,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"title": "Wizard",
+			"sprite": "../img/entities/classes/wizard.png",
+			"descr": "With great power comes great destruction",
+			"damage": 10,
+			"currHp": 3,
+			"maxHp": 3,
+			"energy": 10,
+			"weapons": [
+				{
+					"type": "wood",
+					"name": "wood staff",
+					"sprite": "../img/items/weapons/caster/staff-wood.png",
+					"damage": 5,
+					"price": 200
+				},
+				{
+					"type": "iron",
+					"name": "iron staff",
+					"sprite": "../img/items/weapons/caster/staff-iron.png",
+					"damage": 8,
+					"price": 500
+				},
+				{
+					"gold": "gold",
+					"name": "gold staff",
+					"sprite": "../img/items/weapons/caster/staff-gold.png",
+					"damage": 12,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"title": "Rogue",
+			"sprite": "../img/entities/classes/rogue.png",
+			"descr": "All sneaky beaky like.",
+			"damage": 8,
+			"currHp": 5,
+			"maxHp": 5,
+			"energy": 5,
+			"weapons": [
+				{
+					"type": "wood",
+					"name": "wood shuriken",
+					"sprite": "../img/items/weapons/ranged/shuriken-wood.png",
+					"damage": 5,
+					"price": 200
+				},
+				{
+					"type": "iron",
+					"name": "iron shuriken",
+					"sprite": "../img/items/weapons/ranged/shuriken-iron.png",
+					"damage": 8,
+					"price": 500
+				},
+				{
+					"gold": "gold",
+					"name": "gold shuriken",
+					"sprite": "../img/items/weapons/ranged/shuriken-gold.png",
+					"damage": 12,
+					"price": 1000
+				}
+			]
+		},
+		{
+			"title": "Priest",
+			"sprite": "../img/entities/classes/priest.png",
+			"descr": "Did someone order a heal bot?",
+			"damage": 3,
+			"currHp": 7,
+			"maxHp": 7,
+			"energy": 10,
+			"weapons": [
+				{
+					"type": "wood",
+					"name": "wood staff",
+					"sprite": "../img/items/weapons/caster/staff-wood.png",
+					"damage": 5,
+					"price": 200
+				},
+				{
+					"type": "iron",
+					"name": "iron staff",
+					"sprite": "../img/items/weapons/caster/staff-iron.png",
+					"damage": 8,
+					"price": 500
+				},
+				{
+					"gold": "gold",
+					"name": "gold staff",
+					"sprite": "../img/items/weapons/caster/staff-gold.png",
+					"damage": 12,
+					"price": 1000
+				}
+			]
+		}
+	]
+}
