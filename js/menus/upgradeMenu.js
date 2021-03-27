@@ -31,7 +31,7 @@ export class UpgradeMenu {
 		this.spriteDisplay = new SpriteDisplay(
 			this.menu.rootEl,
 			"The Forge",
-			"../img/objects/forge.png",
+			"../../img/objects/forge.png",
 			"Upgrading weapons is what I do."
 		);
 

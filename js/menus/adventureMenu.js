@@ -25,7 +25,7 @@ export class AdventureMenu {
 		this.spriteDisplay = new SpriteDisplay(
 			this.menu.rootEl,
 			"Adventure",
-			"../img/objects/venture-board.png",
+			"../../img/objects/venture-board.png",
 			"Prepare yourself for a dangerous journey"
 		);
 		this.ventureBtn = new Button(this.menu.rootEl, "venture-btn", "green", "Venture");

@@ -8,7 +8,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"stats-container",
 			"stats-/img",
-			"../img/objects/stats.png",
+			"../../../img/objects/stats.png",
 			"stats",
 			"Stats"
 		);
@@ -16,7 +16,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"backpack-container",
 			"backpack-/img",
-			"../img/objects/backpack.png",
+			"../../../img/objects/backpack.png",
 			"backpack",
 			"Backpack"
 		);
@@ -24,7 +24,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"spells-container",
 			"spells-/img",
-			"../img/objects/spellbook.png",
+			"../../../img/objects/spellbook.png",
 			"spells",
 			"Spells"
 		);
@@ -32,7 +32,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"shop-container",
 			"shop-/img",
-			"../img/objects/shop.png",
+			"../../../img/objects/shop.png",
 			"shop",
 			"Shop"
 		);
@@ -40,7 +40,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"feats-container",
 			"feats-/img",
-			"../img/objects/feats.png",
+			"../../../img/objects/feats.png",
 			"feats",
 			"Feats"
 		);
@@ -48,7 +48,7 @@ export class MenuDisplay {
 			this.container.rootEl,
 			"settings-container",
 			"settings-/img",
-			"../img/objects/settings.png",
+			"../../../img/objects/settings.png",
 			"settings",
 			"Settings"
 		);

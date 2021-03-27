@@ -21,7 +21,7 @@ export class BackpackPopup extends PopupDisplay {
 			this.popup.rootEl,
 			"potion-container",
 			"potion-sprite",
-			"../img/items/potions/red-potion.png",
+			"../../img/items/potions/red-potion.png",
 			"potions",
 			`Health potions x${player.potions}`
 		);

@@ -11,7 +11,7 @@ export class ShopPopup extends PopupDisplay {
 		this.shopItem = new ShopItemDisplay(
 			this.popup.rootEl,
 			"Potion",
-			"../img/items/potions/red-potion.png",
+			"../../img/items/potions/red-potion.png",
 			"A potion that heals health.",
 			`${30} gold`
 		);

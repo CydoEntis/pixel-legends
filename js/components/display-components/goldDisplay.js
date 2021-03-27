@@ -8,7 +8,12 @@ export class GoldDisplay {
 	constructor(parent, gold) {
 		this.container = new Container(parent, "gold-display", "half");
 		this.gold = new Txt(this.container.rootEl, "p", "gold", "sm", "yellow", gold);
-		this.sprite = new Sprite(this.container.rootEl, "gold-icon", "../img/items/gold.png", "icon");
+		this.sprite = new Sprite(
+			this.container.rootEl,
+			"gold-icon",
+			"../../../img/items/gold.png",
+			"icon"
+		);
 	}
 
 	updateGoldDisplay(gold) {

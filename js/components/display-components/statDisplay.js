@@ -8,7 +8,7 @@ export class StatDisplay {
 			this.container.rootEl,
 			"damage-container",
 			"damage-/img",
-			"../img/objects/damage3.png",
+			"../../../img/objects/damage3.png",
 			"stats",
 			"green",
 			damage
@@ -17,7 +17,7 @@ export class StatDisplay {
 			this.container.rootEl,
 			"health-container",
 			"health-/img",
-			"../img/objects/health.png",
+			"../../../img/objects/health.png",
 			"health",
 			"red",
 			health
@@ -26,7 +26,7 @@ export class StatDisplay {
 			this.container.rootEl,
 			"energy-container",
 			"energy-/img",
-			"../img/objects/energy3.png",
+			"../../../img/objects/energy3.png",
 			"spells",
 			"blue",
 			energy

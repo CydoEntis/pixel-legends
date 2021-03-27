@@ -2,7 +2,7 @@
 	"enemies": [
 		{
 			"name": "Spear Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-guard-spear.png",
+			"sprite": "../img/entities/enemies/forest/goblin-guard-spear.png",
 			"damage": 2,
 			"currHp": 8,
 			"maxHp": 8,
@@ -11,7 +11,7 @@
 		},
 		{
 			"name": "Bow Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-guard-bow.png",
+			"sprite": "../img/entities/enemies/forest/goblin-guard-bow.png",
 			"damage": 4,
 			"currHp": 8,
 			"maxHp": 8,
@@ -20,7 +20,7 @@
 		},
 		{
 			"name": "Shotty Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-guard-shotgun.png",
+			"sprite": "../img/entities/enemies/forest/goblin-guard-shotgun.png",
 			"damage": 3,
 			"currHp": 15,
 			"maxHp": 15,
@@ -29,7 +29,7 @@
 		},
 		{
 			"name": "Blowpipe Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-guard-blowpipe.png",
+			"sprite": "../img/entities/enemies/forest/goblin-guard-blowpipe.png",
 			"damage": 3,
 			"currHp": 15,
 			"maxHp": 15,
@@ -38,7 +38,7 @@
 		},
 		{
 			"name": "Axe Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-guard-scythe.png",
+			"sprite": "../img/entities/enemies/forest/goblin-guard-scythe.png",
 			"damage": 4,
 			"currHp": 15,
 			"maxHp": 15,
@@ -47,7 +47,7 @@
 		},
 		{
 			"name": "Shaman",
-			"sprite": "../../img/entities/enemies/forest/goblin-shaman.png",
+			"sprite": "../img/entities/enemies/forest/goblin-shaman.png",
 			"damage": 3,
 			"currHp": 12,
 			"maxHp": 12,
@@ -56,7 +56,7 @@
 		},
 		{
 			"name": "Giant Gobby",
-			"sprite": "../../img/entities/enemies/forest/goblin-giant.png",
+			"sprite": "../img/entities/enemies/forest/goblin-giant.png",
 			"damage": 7,
 			"currHp": 40,
 			"maxHp": 40,
@@ -65,7 +65,7 @@
 		},
 		{
 			"name": "Boar",
-			"sprite": "../../img/entities/enemies/forest/boar.png",
+			"sprite": "../img/entities/enemies/forest/boar.png",
 			"damage": 2,
 			"currHp": 5,
 			"maxHp": 5,
@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "Dire Boar",
-			"sprite": "../../img/entities/enemies/forest/dire-boar.png",
+			"sprite": "../img/entities/enemies/forest/dire-boar.png",
 			"damage": 3,
 			"currHp": 10,
 			"maxHp": 10,

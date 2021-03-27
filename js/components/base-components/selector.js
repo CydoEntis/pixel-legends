@@ -16,7 +16,7 @@ export class Selector extends Element {
 	}
 
 	setSrc() {
-		this.rootEl.src = "../img/objects/arrow.png";
+		this.rootEl.src = "../../../img/objects/arrow.png";
 	}
 
 	flipSelDirection(flipped) {
