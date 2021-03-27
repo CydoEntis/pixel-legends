@@ -2,7 +2,7 @@
 	"classes": [
 		{
 			"title": "Paladin",
-			"sprite": "../../img/entities/classes/paladin.png",
+			"sprite": "../../../img/items/weaponspaladin.png",
 			"descr": "Protector of JUSTICEEE!!!",
 			"damage": 5,
 			"currHp": 10,
@@ -34,7 +34,7 @@
 		},
 		{
 			"title": "Archer",
-			"sprite": "../../img/entities/classes/archer.png",
+			"sprite": "../../../img/items/weaponsarcher.png",
 			"descr": "Nature and bows and stuff.",
 			"damage": 7,
 			"currHp": 6,
@@ -66,7 +66,7 @@
 		},
 		{
 			"title": "Wizard",
-			"sprite": "../../img/entities/classes/wizard.png",
+			"sprite": "../../../img/items/weaponswizard.png",
 			"descr": "With great power comes great destruction",
 			"damage": 10,
 			"currHp": 3,
@@ -98,7 +98,7 @@
 		},
 		{
 			"title": "Rogue",
-			"sprite": "../../img/entities/classes/rogue.png",
+			"sprite": "../../../img/items/weaponsrogue.png",
 			"descr": "All sneaky beaky like.",
 			"damage": 8,
 			"currHp": 5,
@@ -130,7 +130,7 @@
 		},
 		{
 			"title": "Priest",
-			"sprite": "../../img/entities/classes/priest.png",
+			"sprite": "../../../img/items/weaponspriest.png",
 			"descr": "Did someone order a heal bot?",
 			"damage": 3,
 			"currHp": 7,

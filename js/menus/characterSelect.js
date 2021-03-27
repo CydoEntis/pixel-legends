@@ -21,7 +21,7 @@ export class CharacterSelect {
 		this.spriteDisplay = new SpriteDisplay(
 			this.menu.rootEl,
 			title,
-			"../../img/entities/classes/new-char.png",
+			"../../../img/items/weaponsnew-char.png",
 			""
 		);
 		this.statDisplay = new StatDisplay(this.menu.rootEl, "?", "?", "?");
@@ -51,7 +51,7 @@ export class CharacterSelect {
 	updateUI(index) {
 		if (index === -1) {
 			this.playerDisplay.updatePlayerDisplay("???", "?", "?", 0, 100);
-			this.spriteDisplay.updateSprite("../../img/entities/classes/new-char.png");
+			this.spriteDisplay.updateSprite("../../../img/items/weaponsnew-char.png");
 			this.statDisplay.updateStatDisplay("?", "?", "?");
 		} else {
 			this.playerDisplay.updatePlayerDisplay(
@@ -195,7 +195,7 @@ export class CharacterSelect {
 			this.setSaveSlot();
 			const characterCreation = new CharacterCreation(
 				"Paladin",
-				"../../img/entities/classes/paladin.png",
+				"../../../img/items/weaponspaladin.png",
 				"Protector of JUSTICEEE!!!",
 				5,
 				10,
